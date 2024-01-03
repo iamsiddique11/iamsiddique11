@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahir Siddique
 - 👀 I’m interested in building my career as Full-stack Engineer.
-- 🌱 I’m currently employed in Mphasis(Full-stack Engg).
+- 🌱 Previously worked as (Full-stack Engg) in Mphasis. Currently employed in KPIT.
 - 📫 You can reach me at (+91)(7760309480) or drop a mail to iamsiddique11@gmail.com.
 
 <!---
